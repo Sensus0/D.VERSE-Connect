@@ -1,0 +1,21 @@
+.flexbox-container {
+    height: 1300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background: purple;
+}
+
+.dvc-header {
+    font-size: 100px;
+    color: greenyellow;
+}
+
+.dvc-tagline {
+    font-size: 30px;
+    color: greenyellow;
+}
+.dvc-button {
+    font-size: 30px;
+}
